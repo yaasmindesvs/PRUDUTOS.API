@@ -50,7 +50,7 @@
 
    
 👨‍🏫 Projeto Acadêmico
-Este projeto foi desenvolvido como parte da disciplina de Programação Web, com o objetivo de aplicar conceitos de integração entre frontend e backend, além da utilização de banco de dados relacional e design com Bootstrap.
+Este projeto foi desenvolvido durante as aulas da disciplina de programação web, com o objetivo de aplicar conceitos de integração entre frontend e backend, além da utilização de banco de dados relacional, design com Bootstrap e diversas tecnologias que colaboraram para o desenvolvimento do projeto.
 
 📄 Licença
 Projeto com fins educacionais. Livre para uso e modificação.
