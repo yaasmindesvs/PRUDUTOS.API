@@ -1,6 +1,6 @@
 # 🛍️ CRUD de Produtos - Spring Boot + React
 
- Este é um projeto simples de CRUD (Create, Read, Update, Delete) para gerenciamento de produtos, desenvolvido como exemplo didático para a disciplina de **Programação Web**. O sistema utiliza **Spring Boot** no backend, **React** no frontend, **MySQL** como banco de dados e **Bootstrap** para estilização.
+  Olá, me chamo Yasmin sou estudande do curso técnico de desenvolvimento de sistemas.Estou realizando esse junto com o professor e coordenador do curso. Este é um projeto simples de CRUD (Create, Read, Update, Delete) para gerenciamento de produtos, desenvolvido como exemplo didático para a disciplina de **Programação Web**. O sistema utiliza **Spring Boot** no backend, **React** no frontend, **MySQL** como banco de dados e **Bootstrap** para estilização.
 
 ---
 
